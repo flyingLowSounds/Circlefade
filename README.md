@@ -3,8 +3,6 @@
 
 This repo contains our plugins for the virtual Eurorack Modular Synthesizer VCV Rack.
 
-Learn More: www.circlefade.com/vcv
-
 
 # Modules 
 
