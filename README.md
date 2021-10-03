@@ -1,17 +1,7 @@
 
 # Circlefade VCV Rack plugin
 
+version 2.0.0
+under construction
+
 This repo contains our plugins for the virtual Eurorack Modular Synthesizer VCV Rack.
-
-
-# Modules 
-
-Here are some of our modules:
-
-
-![alt text](https://static.wixstatic.com/media/ed93a0_ab52733a6cd94b3c83fe0f2e499b1d3b~mv2.png)
-
-
-Have fun and open issues if you find bugs!!
-
-Best, Max.
