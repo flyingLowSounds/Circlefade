@@ -2,15 +2,9 @@
   "slug": "Circlefade",
   "name": "Circlefade",
   "version": "2.0.0",
-  "license": "BSD-3-Clause",
+  "license": "?",
   "brand": "Circlefade",
   "author": "Max Circlefade",
-  "authorEmail": "max@circlefade.com",
-  "authorUrl": "https://www.circlefade.com",
-  "pluginUrl": "https://www.circlefade.com/vcv",
-  "manualUrl": "https://www.circlefade.com/vcv",
-  "sourceUrl": "https://github.com/max-circlefade/Circlefade",
-  "donateUrl": "",
   "modules": [
     {
       "slug": "Random",
